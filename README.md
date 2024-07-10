@@ -1,6 +1,8 @@
 # Projeto Chat em Java
 Este é um sistema de chat simples implementado em Java utilizando sockets. O projeto consiste em dois componentes principais: um servidor e um cliente, que se comunicam através de conexões de rede para permitir a troca de mensagens em tempo real.
 
+![image](https://github.com/ElielFreitas/Chat/assets/105892996/9340d37f-3cdd-439b-bd98-60548700117e)
+
 ## Funcionalidades
 ### Servidor
 - Aceitação de Conexões: O servidor aceita conexões de múltiplos clientes através de sockets.
